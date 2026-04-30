@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="./header.png" align="center" style="width: 100%" />
+# PARTHSINH THAKOR
+### FLUTTER DEVELOPER | BACKEND ENGINEER | MICROSERVICES ARCHITECT
 
-<br/>
-
-# PARTH THAKOR
-### SOFTWARE ARCHITECT | FULL-STACK DEVELOPER | FOUNDER AT PARAGLIDE
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scalable+Backend+Systems;Modern+Cross-Platform+UIs;Cloud+Native+Architecture;Full-Stack+Engineering+Expertise" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Systems+That+Scale;Backend+%26+Microservices+Developer;Flutter+Cross-Platform+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 
 ---
 
@@ -15,20 +11,21 @@
 
 ### PROFESSIONAL SUMMARY
 
-I am a dedicated Software Architect and Full-Stack Developer specializing in the design and implementation of high-performance, scalable digital ecosystems. My expertise lies in bridging the gap between complex backend infrastructures and premium user interfaces, with a focus on Flutter, Spring Boot, and Cloud Architecture.
+I am a Software Engineer and Backend Architect specializing in designing high-performance, scalable systems. Currently pursuing a B.E. in Information Technology, I have a proven track record in academic excellence (GATE AIR 342) and hands-on experience in building production-ready APIs and distributed systems at Mitra Media Labs. I focus on writing clean, maintainable code and solving complex engineering problems that work in production.
 
 ---
 
+
 ### TECHNICAL EXPERTISE
 
-**Frontend & Mobile Engineering**
-- Flutter / Dart / Android SDK / Kotlin / Web Technologies
+**Backend & Systems Engineering**
+- Java / Spring Boot / Microservices Architecture / RESTful APIs / MySQL / Docker
 
-**Backend & Infrastructure**
-- Java / Spring Boot / Microservices / MySQL / Firebase / Docker
+**Cross-Platform & Mobile**
+- Flutter / Dart / Kotlin
 
-**Architecture & Design**
-- RESTful API Design / System Scalability / Glassmorphism UI / Professional UX
+**Emerging Technologies**
+- Machine Learning / Data Analytics / Scalable Product Design / Clean Architecture
 
 ---
 
@@ -79,15 +76,15 @@ I am a dedicated Software Architect and Full-Stack Developer specializing in the
 
 <div align="center">
 
-| [LinkedIn](https://linkedin.com/in/parthsinh-thakor) | [Portfolio](https://techparaglide.web.app) | [Instagram](https://instagram.com/parth.thakor.07) | [Email](mailto:parthsinhthakor@gmail.com) |
+| [LinkedIn](https://linkedin.com/in/parthsinh-thakor) | [Portfolio](https://parthsinh.web.app) | [Instagram](https://instagram.com/apexcoder_) | [Email](mailto:work.parthsinh@gmail.com) |
 | :--- | :--- | :--- | :--- |
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PARTH-THAKOR&color=FFFFFF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=PARTH-THAKOR&color=47A1FF&style=flat-square&label=PROFILE+VIEWS" />
 
 <br/>
 
-**CRAFTED BY APEXCODER**
+**BUILDING SYSTEMS THAT SCALE**
 
 </div>
