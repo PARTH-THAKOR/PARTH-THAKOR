@@ -19,7 +19,7 @@ I am a Software Engineer and Backend Architect specializing in designing high-pe
 ### TECHNICAL EXPERTISE
 
 **Backend & Systems Engineering**
-- Java / Spring Boot / Microservices Architecture / RESTful APIs / MySQL / Docker
+- Java / Spring Boot / Microservices Architecture / RESTful APIs / Docker
 
 **Cross-Platform & Mobile**
 - Flutter / Dart / Kotlin
