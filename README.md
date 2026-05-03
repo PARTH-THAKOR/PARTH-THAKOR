@@ -37,38 +37,12 @@ I am a Software Engineer and Backend Architect specializing in designing high-pe
 
 ---
 
-### FEATURED REPOSITORIES
+### ACADEMIC & CAREER HIGHLIGHTS
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" style="height: 200px; padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
-      <a href="https://github.com/TechParaglide/Rollout.io">
-        <p style="font-size: 24px; font-weight: bold; color: #FFFFFF; margin-bottom: 10px;">Rollout.io</p>
-      </a>
-      <p style="text-align: justify; margin-top: 10px; font-size: 14px; line-height: 1.5; color: #8B949E;">A centralized feature flag and configuration management system that allows applications to change behavior dynamically at runtime without redeployment. It supports controlled feature rollouts, instant rollback, and centralized configuration management.</p>
-    </td>
-    <td align="center" width="50%" style="height: 200px; padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
-      <a href="https://github.com/PARTH-THAKOR/Crop-Dashboard">
-        <p style="font-size: 24px; font-weight: bold; color: #FFFFFF; margin-bottom: 10px;">Crop-Dashboard</p>
-      </a>
-      <p style="text-align: justify; margin-top: 10px; font-size: 14px; line-height: 1.5; color: #8B949E;">The Crop Performance & Profitability Insights (CPPI) project designed to provide agricultural stakeholders with a data-driven approach to farm management by analyzing historical crop performance and financial data to identify trends.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="height: 200px; padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
-      <a href="https://github.com/PARTH-THAKOR/KhetExpert">
-        <p style="font-size: 24px; font-weight: bold; color: #FFFFFF; margin-bottom: 10px;">KhetExpert</p>
-      </a>
-      <p style="text-align: justify; margin-top: 10px; font-size: 14px; line-height: 1.5; color: #8B949E;">A comprehensive digital solution designed to bridge the gap between farmers and agricultural experts. The platform provides real-time advice, disease detection, agricultural news, and an appointment system to help manage farm health efficiently.</p>
-    </td>
-    <td align="center" width="50%" style="height: 200px; padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
-      <a href="https://github.com/PARTH-THAKOR/ChatOFi">
-        <p style="font-size: 24px; font-weight: bold; color: #FFFFFF; margin-bottom: 10px;">ChatOFi</p>
-      </a>
-      <p style="text-align: justify; margin-top: 10px; font-size: 14px; line-height: 1.5; color: #8B949E;">A premium, feature-rich Flutter chat application designed for modern users who value privacy, speed, and a stunning user interface. Built with Firebase and powered by advanced real-time capabilities for seamless communication.</p>
-    </td>
-  </tr>
-</table>
+- **Academic Excellence**: Achieved **GATE AIR 342**, ranking in the top 0.1% across the country.
+- **Backend & Systems Architecture**: Professional experience building high-performance, distributed, and scalable enterprise APIs.
+- **Mobile Ecosystems**: Expertise in developing premium, user-focused mobile applications utilizing Flutter and Dart.
+- **Academic Background**: Currently pursuing a Bachelor of Engineering (B.E.) in Information Technology.
 
 ---
 
