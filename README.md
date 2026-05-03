@@ -27,44 +27,60 @@ I am a Software Engineer and Backend Architect specializing in designing high-pe
 **Emerging Technologies**
 - Machine Learning / Data Analytics / Scalable Product Design / Clean Architecture
 
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,flutter,dart,kotlin,py,aws,git,github,vscode,idea" />
+  </a>
+</p>
+
 ---
 
 ### FEATURED REPOSITORIES
 
-<p align="center">
-  <a href="https://github.com/PARTH-THAKOR/HYPHEN">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-THAKOR&repo=HYPHEN&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
-  <a href="https://github.com/PARTH-THAKOR/Rollout.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-THAKOR&repo=Rollout.io&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PARTH-THAKOR/ChatOFi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-THAKOR&repo=ChatOFi&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
-  <a href="https://github.com/PARTH-THAKOR/KhetExpert">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-THAKOR&repo=KhetExpert&theme=tokyonight&show_owner=false&hide_border=true" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" style="padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
+      <a href="https://github.com/TechParaglide/Rollout.io">
+        <h2 style="font-size: 28px; margin-bottom: 10px;">Rollout.io</h2>
+      </a>
+      <p style="text-align: justify; margin-top: 10px;">A centralized feature flag and configuration management system that allows applications to change behavior dynamically at runtime without redeployment. It supports controlled feature rollouts, instant rollback, and centralized configuration management.</p>
+    </td>
+    <td align="center" width="50%" style="padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
+      <a href="https://github.com/PARTH-THAKOR/Crop-Dashboard">
+        <h2 style="font-size: 28px; margin-bottom: 10px;">Crop-Dashboard</h2>
+      </a>
+      <p style="text-align: justify; margin-top: 10px;">The Crop Performance & Profitability Insights (CPPI) project designed to provide agricultural stakeholders with a data-driven approach to farm management by analyzing historical crop performance and financial data to identify trends.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
+      <a href="https://github.com/PARTH-THAKOR/KhetExpert">
+        <h2 style="font-size: 28px; margin-bottom: 10px;">KhetExpert</h2>
+      </a>
+      <p style="text-align: justify; margin-top: 10px;">A comprehensive digital solution designed to bridge the gap between farmers and agricultural experts. The platform provides real-time advice, disease detection, agricultural news, and an appointment system to help manage farm health efficiently.</p>
+    </td>
+    <td align="center" width="50%" style="padding: 20px; border-radius: 8px; border: 1px solid #1E2229; background: #0D1117; vertical-align: top;">
+      <a href="https://github.com/PARTH-THAKOR/ChatOFi">
+        <h2 style="font-size: 28px; margin-bottom: 10px;">ChatOFi</h2>
+      </a>
+      <p style="text-align: justify; margin-top: 10px;">A premium, feature-rich Flutter chat application designed for modern users who value privacy, speed, and a stunning user interface. Built with Firebase and powered by advanced real-time capabilities for seamless communication.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### PERFORMANCE ANALYTICS
+### PERFORMANCE ANALYTICS & RECENT ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PARTH-THAKOR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-THAKOR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PARTH-THAKOR&theme=tokyonight&no-frame=true&margin-w=15" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PARTH-THAKOR&theme=tokyonight&bg_color=0D1117&hide_border=true&color=47A1FF" width="100%" />
 </p>
-
----
-
-### RECENT ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTH-THAKOR&theme=tokyonight&hide_border=true" width="100%" />
