@@ -46,22 +46,6 @@ I am a Software Engineer and Backend Architect specializing in designing high-pe
 
 ---
 
-### PERFORMANCE ANALYTICS & RECENT ACTIVITY
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PARTH-THAKOR&theme=tokyonight&no-frame=true&margin-w=15" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PARTH-THAKOR&theme=tokyonight&bg_color=0D1117&hide_border=true&color=47A1FF" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTH-THAKOR&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
 ### CONTACT & PROFESSIONAL LINKS
 
 <div align="center">
