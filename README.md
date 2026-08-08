@@ -29,8 +29,6 @@ I AM AN M.TECH CSE STUDENT AND RESEARCH ASSISTANT AT IIT BOMBAY WITH A STRONG FO
 
 ---
 
-### CONTACT & PROFILES
-
 <div align="center">
 
 | [PORTFOLIO](https://paraglide.in) | [IIT BOMBAY](https://www.cse.iitb.ac.in/~parthsinh) | [LINKEDIN](https://linkedin.com/in/parthsinh-thakor) | [MEDIUM](https://medium.com/@myself.parthsinh) | [LEETCODE](https://leetcode.com/u/CODE_PARTHSINH) | [EMAIL](mailto:parthsinh@cse.iitb.ac.in) |
